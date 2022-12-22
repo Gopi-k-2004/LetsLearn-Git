@@ -6,6 +6,6 @@ int main(){
     int b=20;
     int c;
     c=a+b;
-    cout<<c<<endl;
+    cout<<"the value of c is"<<c<<endl;
     return 0;
 }
